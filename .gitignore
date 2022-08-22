@@ -1,5 +1,6 @@
 # add congfig file with db pass
 config.py
+ratings.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
