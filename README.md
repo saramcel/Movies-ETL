@@ -22,11 +22,11 @@ Lastly, we had to move the dataframe to SQL. We did this by making an engine to 
 
 Once that was complete, we could enter pgAdmin and make a query to check if we have the correct number of rows. 
 
-![Movies Query looks good](https:/https://github.com/saramcel/Movies-ETL.git/movies_query.png)
+![Movies Query looks good](https://github.com/saramcel/Movies-ETL/blob/50bf9b2113a0b368b22f6b84b92e62c3f1f34be7/Resources/movies_query.png)
 
 There are 6,052 rows in the movies table.
 
-![Ratings Query looks good](https:/https://github.com/saramcel/Movies-ETL.git/ratings_query.png)
+![Ratings Query looks good](https://github.com/saramcel/Movies-ETL/blob/50bf9b2113a0b368b22f6b84b92e62c3f1f34be7/Resources/ratings_query.png)
 
 There are 26,024,289 rows in the ratings table. 
 
